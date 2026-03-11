@@ -1,0 +1,79 @@
+﻿<Window x:Class="Shoes.Views.AddRedactTovar"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" 
+        Title="Добавление товара" Height="700" Width="850" WindowState="Maximized" MinHeight="590" MinWidth="850" Icon="/Resources/Icon.ico">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="75"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0" Background="#7FFF00">
+            <Image Source="/Resources/Icon.png" Margin="5" HorizontalAlignment="Left"></Image>
+            <TextBlock Text="ООО Обувь" HorizontalAlignment="Center" FontSize="20" VerticalAlignment="Center"></TextBlock>
+            <Button x:Name="back_btn" HorizontalAlignment="Right" Background="#00FA9A" FontSize="18" Margin="10" Padding="15 10" VerticalAlignment="Center" Content="Назад" Click="back_btn_Click"></Button>
+        </Grid>
+
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <StackPanel Margin="20" Orientation="Vertical" Grid.Column="0">
+                <TextBlock FontSize="18">Артикул</TextBlock>
+                <TextBox Padding="5" Margin="5" FontSize="18" x:Name="article" IsEnabled="False"></TextBox>
+
+                <TextBlock FontSize="18">Название</TextBlock>
+                <TextBox Padding="5" Margin="5" FontSize="18" x:Name="name"></TextBox>
+
+                <TextBlock FontSize="18">Единица измерения</TextBlock>
+                <TextBox Padding="5" Text="шт." Margin="5" FontSize="18" x:Name="unit"></TextBox>
+
+                <TextBlock FontSize="18">Стоимость</TextBlock>
+                <TextBox Padding="5" Margin="5" FontSize="18" x:Name="cost" PreviewTextInput="cost_PreviewTextInput"></TextBox>
+
+                <TextBlock FontSize="18">Поставщик</TextBlock>
+                <ComboBox Padding="5" Margin="5" FontSize="18" x:Name="cbdelivery"></ComboBox>
+
+                <TextBlock FontSize="18">Производитель</TextBlock>
+                <ComboBox Padding="5" Margin="5" FontSize="18" x:Name="cbManufacturers"></ComboBox>
+            </StackPanel>
+
+            <StackPanel Margin="20" Orientation="Vertical" Grid.Column="1">
+                <TextBlock FontSize="18">Категория товара</TextBlock>
+                <ComboBox Padding="5" Margin="5" FontSize="18" x:Name="cbCategory"></ComboBox>
+
+                <TextBlock FontSize="18">Текущая скидка</TextBlock>
+                <TextBox Padding="5" Margin="5" FontSize="18" x:Name="current_sale"></TextBox>
+
+                <TextBlock FontSize="18">Кол-во на складе</TextBlock>
+                <TextBox Padding="5" Margin="5" FontSize="18" x:Name="quantity" PreviewTextInput="cost_PreviewTextInput"></TextBox>
+
+                <TextBlock FontSize="18">Описание</TextBlock>
+                <TextBox Padding="5" Margin="5" FontSize="18" x:Name="description"></TextBox>
+
+                <TextBlock FontSize="18">Фото</TextBlock>
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="Auto"/>
+                    </Grid.ColumnDefinitions>
+                    <TextBox Padding="5" Margin="5" FontSize="18" x:Name="photo" Grid.Column="0" IsReadOnly="True"></TextBox>
+                    <Button Grid.Column="1" Padding="5" Background="#00FA9A" Margin="5" FontSize="14" Content="Выбрать" 
+                            Click="BrowseImage_Click" Width="80" VerticalAlignment="Center"></Button>
+                </Grid>
+                <TextBlock Text="Превью изображения:" FontSize="12" Margin="5 5 5 0" HorizontalAlignment="Center"/>
+                <Border BorderBrush="Gray" BorderThickness="1" Margin="5" HorizontalAlignment="Center">
+                    <Image x:Name="imgPreview" Width="150" Height="150" Stretch="Uniform"/>
+                </Border>
+
+                <Button FontSize="18" Background="#00FA9A" Padding="5" Margin="20 20 20 0" 
+                        x:Name="SaveGood" Click="SaveGood_Click">Сохранить</Button>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Window>

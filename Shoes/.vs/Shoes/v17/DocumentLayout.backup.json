@@ -1,0 +1,453 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\79174\\Downloads\\Telegram Desktop\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\Shoes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D85254B-6E6E-43FB-8CC4-0AC2F4268B93}|Shoes\\Shoes.csproj|c:\\users\\79174\\downloads\\telegram desktop\\\u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\shoes\\shoes\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D85254B-6E6E-43FB-8CC4-0AC2F4268B93}|Shoes\\Shoes.csproj|solutionrelative:shoes\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D85254B-6E6E-43FB-8CC4-0AC2F4268B93}|Shoes\\Shoes.csproj|c:\\users\\79174\\downloads\\telegram desktop\\\u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\shoes\\shoes\\views\\addredacttovar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D85254B-6E6E-43FB-8CC4-0AC2F4268B93}|Shoes\\Shoes.csproj|solutionrelative:shoes\\views\\addredacttovar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D85254B-6E6E-43FB-8CC4-0AC2F4268B93}|Shoes\\Shoes.csproj|c:\\users\\79174\\downloads\\telegram desktop\\\u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\shoes\\shoes\\views\\addredacttovar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7D85254B-6E6E-43FB-8CC4-0AC2F4268B93}|Shoes\\Shoes.csproj|solutionrelative:shoes\\views\\addredacttovar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D85254B-6E6E-43FB-8CC4-0AC2F4268B93}|Shoes\\Shoes.csproj|c:\\users\\79174\\downloads\\telegram desktop\\\u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\shoes\\shoes\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7D85254B-6E6E-43FB-8CC4-0AC2F4268B93}|Shoes\\Shoes.csproj|solutionrelative:shoes\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D85254B-6E6E-43FB-8CC4-0AC2F4268B93}|Shoes\\Shoes.csproj|c:\\users\\79174\\downloads\\telegram desktop\\\u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\shoes\\shoes\\model\\tovar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D85254B-6E6E-43FB-8CC4-0AC2F4268B93}|Shoes\\Shoes.csproj|solutionrelative:shoes\\model\\tovar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D85254B-6E6E-43FB-8CC4-0AC2F4268B93}|Shoes\\Shoes.csproj|c:\\users\\79174\\downloads\\telegram desktop\\\u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\shoes\\shoes\\views\\authorization.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D85254B-6E6E-43FB-8CC4-0AC2F4268B93}|Shoes\\Shoes.csproj|solutionrelative:shoes\\views\\authorization.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D85254B-6E6E-43FB-8CC4-0AC2F4268B93}|Shoes\\Shoes.csproj|c:\\users\\79174\\downloads\\telegram desktop\\\u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\shoes\\shoes\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7D85254B-6E6E-43FB-8CC4-0AC2F4268B93}|Shoes\\Shoes.csproj|solutionrelative:shoes\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D85254B-6E6E-43FB-8CC4-0AC2F4268B93}|Shoes\\Shoes.csproj|c:\\users\\79174\\downloads\\telegram desktop\\\u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\shoes\\shoes\\views\\tovarcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7D85254B-6E6E-43FB-8CC4-0AC2F4268B93}|Shoes\\Shoes.csproj|solutionrelative:shoes\\views\\tovarcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D85254B-6E6E-43FB-8CC4-0AC2F4268B93}|Shoes\\Shoes.csproj|c:\\users\\79174\\downloads\\telegram desktop\\\u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\shoes\\shoes\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D85254B-6E6E-43FB-8CC4-0AC2F4268B93}|Shoes\\Shoes.csproj|solutionrelative:shoes\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D85254B-6E6E-43FB-8CC4-0AC2F4268B93}|Shoes\\Shoes.csproj|c:\\users\\79174\\downloads\\telegram desktop\\\u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\shoes\\shoes\\views\\authorization.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7D85254B-6E6E-43FB-8CC4-0AC2F4268B93}|Shoes\\Shoes.csproj|solutionrelative:shoes\\views\\authorization.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D85254B-6E6E-43FB-8CC4-0AC2F4268B93}|Shoes\\Shoes.csproj|c:\\users\\79174\\downloads\\telegram desktop\\\u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\shoes\\shoes\\views\\tovarcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D85254B-6E6E-43FB-8CC4-0AC2F4268B93}|Shoes\\Shoes.csproj|solutionrelative:shoes\\views\\tovarcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D85254B-6E6E-43FB-8CC4-0AC2F4268B93}|Shoes\\Shoes.csproj|c:\\users\\79174\\downloads\\telegram desktop\\\u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\shoes\\shoes\\views\\addredactorder.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D85254B-6E6E-43FB-8CC4-0AC2F4268B93}|Shoes\\Shoes.csproj|solutionrelative:shoes\\views\\addredactorder.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D85254B-6E6E-43FB-8CC4-0AC2F4268B93}|Shoes\\Shoes.csproj|c:\\users\\79174\\downloads\\telegram desktop\\\u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\shoes\\shoes\\views\\addredactorder.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7D85254B-6E6E-43FB-8CC4-0AC2F4268B93}|Shoes\\Shoes.csproj|solutionrelative:shoes\\views\\addredactorder.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D85254B-6E6E-43FB-8CC4-0AC2F4268B93}|Shoes\\Shoes.csproj|c:\\users\\79174\\downloads\\telegram desktop\\\u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\shoes\\shoes\\views\\orderwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D85254B-6E6E-43FB-8CC4-0AC2F4268B93}|Shoes\\Shoes.csproj|solutionrelative:shoes\\views\\orderwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D85254B-6E6E-43FB-8CC4-0AC2F4268B93}|Shoes\\Shoes.csproj|c:\\users\\79174\\downloads\\telegram desktop\\\u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\shoes\\shoes\\views\\ordercontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D85254B-6E6E-43FB-8CC4-0AC2F4268B93}|Shoes\\Shoes.csproj|solutionrelative:shoes\\views\\ordercontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D85254B-6E6E-43FB-8CC4-0AC2F4268B93}|Shoes\\Shoes.csproj|c:\\users\\79174\\downloads\\telegram desktop\\\u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\shoes\\shoes\\views\\orderwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7D85254B-6E6E-43FB-8CC4-0AC2F4268B93}|Shoes\\Shoes.csproj|solutionrelative:shoes\\views\\orderwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D85254B-6E6E-43FB-8CC4-0AC2F4268B93}|Shoes\\Shoes.csproj|c:\\users\\79174\\downloads\\telegram desktop\\\u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\shoes\\shoes\\model\\pickuppoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D85254B-6E6E-43FB-8CC4-0AC2F4268B93}|Shoes\\Shoes.csproj|solutionrelative:shoes\\model\\pickuppoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D85254B-6E6E-43FB-8CC4-0AC2F4268B93}|Shoes\\Shoes.csproj|c:\\users\\79174\\downloads\\telegram desktop\\\u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\shoes\\shoes\\views\\ordercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7D85254B-6E6E-43FB-8CC4-0AC2F4268B93}|Shoes\\Shoes.csproj|solutionrelative:shoes\\views\\ordercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D85254B-6E6E-43FB-8CC4-0AC2F4268B93}|Shoes\\Shoes.csproj|c:\\users\\79174\\downloads\\telegram desktop\\\u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\shoes\\shoes\\shoes.csproj.backup||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7D85254B-6E6E-43FB-8CC4-0AC2F4268B93}|Shoes\\Shoes.csproj|solutionrelative:shoes\\shoes.csproj.backup||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D85254B-6E6E-43FB-8CC4-0AC2F4268B93}|Shoes\\Shoes.csproj|c:\\users\\79174\\downloads\\telegram desktop\\\u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\shoes\\shoes\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D85254B-6E6E-43FB-8CC4-0AC2F4268B93}|Shoes\\Shoes.csproj|solutionrelative:shoes\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D85254B-6E6E-43FB-8CC4-0AC2F4268B93}|Shoes\\Shoes.csproj|c:\\users\\79174\\downloads\\telegram desktop\\\u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\shoes\\shoes\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D85254B-6E6E-43FB-8CC4-0AC2F4268B93}|Shoes\\Shoes.csproj|solutionrelative:shoes\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D85254B-6E6E-43FB-8CC4-0AC2F4268B93}|Shoes\\Shoes.csproj|c:\\users\\79174\\downloads\\telegram desktop\\\u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\shoes\\shoes\\model\\dbshoescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D85254B-6E6E-43FB-8CC4-0AC2F4268B93}|Shoes\\Shoes.csproj|solutionrelative:shoes\\model\\dbshoescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D85254B-6E6E-43FB-8CC4-0AC2F4268B93}|Shoes\\Shoes.csproj|c:\\users\\79174\\downloads\\telegram desktop\\\u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\shoes\\shoes\\model\\manufacturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D85254B-6E6E-43FB-8CC4-0AC2F4268B93}|Shoes\\Shoes.csproj|solutionrelative:shoes\\model\\manufacturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D85254B-6E6E-43FB-8CC4-0AC2F4268B93}|Shoes\\Shoes.csproj|c:\\users\\79174\\downloads\\telegram desktop\\\u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\shoes\\shoes\\model\\tovarcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D85254B-6E6E-43FB-8CC4-0AC2F4268B93}|Shoes\\Shoes.csproj|solutionrelative:shoes\\model\\tovarcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D85254B-6E6E-43FB-8CC4-0AC2F4268B93}|Shoes\\Shoes.csproj|c:\\users\\79174\\downloads\\telegram desktop\\\u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\shoes\\shoes\\model\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D85254B-6E6E-43FB-8CC4-0AC2F4268B93}|Shoes\\Shoes.csproj|solutionrelative:shoes\\model\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D85254B-6E6E-43FB-8CC4-0AC2F4268B93}|Shoes\\Shoes.csproj|c:\\users\\79174\\downloads\\telegram desktop\\\u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\shoes\\shoes\\model\\ordercomposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D85254B-6E6E-43FB-8CC4-0AC2F4268B93}|Shoes\\Shoes.csproj|solutionrelative:shoes\\model\\ordercomposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D85254B-6E6E-43FB-8CC4-0AC2F4268B93}|Shoes\\Shoes.csproj|c:\\users\\79174\\downloads\\telegram desktop\\\u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\shoes\\shoes\\shoes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7D85254B-6E6E-43FB-8CC4-0AC2F4268B93}|Shoes\\Shoes.csproj|solutionrelative:shoes\\shoes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\79174\\Downloads\\Telegram Desktop\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\Shoes\\Shoes\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Shoes\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\79174\\Downloads\\Telegram Desktop\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\Shoes\\Shoes\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Shoes\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwKMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T08:28:53.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tovar.cs",
+              "DocumentMoniker": "C:\\Users\\79174\\Downloads\\Telegram Desktop\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\Shoes\\Shoes\\Model\\Tovar.cs",
+              "RelativeDocumentMoniker": "Shoes\\Model\\Tovar.cs",
+              "ToolTip": "C:\\Users\\79174\\Downloads\\Telegram Desktop\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\Shoes\\Shoes\\Model\\Tovar.cs",
+              "RelativeToolTip": "Shoes\\Model\\Tovar.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAIwEcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T03:49:36.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Authorization.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\79174\\Downloads\\Telegram Desktop\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\Shoes\\Shoes\\Views\\Authorization.xaml.cs",
+              "RelativeDocumentMoniker": "Shoes\\Views\\Authorization.xaml.cs",
+              "ToolTip": "C:\\Users\\79174\\Downloads\\Telegram Desktop\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\Shoes\\Shoes\\Views\\Authorization.xaml.cs",
+              "RelativeToolTip": "Shoes\\Views\\Authorization.xaml.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwEQAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T14:58:21.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\79174\\Downloads\\Telegram Desktop\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\Shoes\\Shoes\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Shoes\\Views\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\79174\\Downloads\\Telegram Desktop\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\Shoes\\Shoes\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "Shoes\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-22T08:27:09.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddRedactTovar.xaml",
+              "DocumentMoniker": "C:\\Users\\79174\\Downloads\\Telegram Desktop\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\Shoes\\Shoes\\Views\\AddRedactTovar.xaml",
+              "RelativeDocumentMoniker": "Shoes\\Views\\AddRedactTovar.xaml",
+              "ToolTip": "C:\\Users\\79174\\Downloads\\Telegram Desktop\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\Shoes\\Shoes\\Views\\AddRedactTovar.xaml",
+              "RelativeToolTip": "Shoes\\Views\\AddRedactTovar.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-28T03:05:34.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddRedactTovar.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\79174\\Downloads\\Telegram Desktop\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\Shoes\\Shoes\\Views\\AddRedactTovar.xaml.cs",
+              "RelativeDocumentMoniker": "Shoes\\Views\\AddRedactTovar.xaml.cs",
+              "ToolTip": "C:\\Users\\79174\\Downloads\\Telegram Desktop\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\Shoes\\Shoes\\Views\\AddRedactTovar.xaml.cs",
+              "RelativeToolTip": "Shoes\\Views\\AddRedactTovar.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwH4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T03:24:07.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\79174\\Downloads\\Telegram Desktop\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\Shoes\\Shoes\\App.xaml",
+              "RelativeDocumentMoniker": "Shoes\\App.xaml",
+              "ToolTip": "C:\\Users\\79174\\Downloads\\Telegram Desktop\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\Shoes\\Shoes\\App.xaml",
+              "RelativeToolTip": "Shoes\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-22T08:23:40.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TovarControl.xaml",
+              "DocumentMoniker": "C:\\Users\\79174\\Downloads\\Telegram Desktop\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\Shoes\\Shoes\\Views\\TovarControl.xaml",
+              "RelativeDocumentMoniker": "Shoes\\Views\\TovarControl.xaml",
+              "ToolTip": "C:\\Users\\79174\\Downloads\\Telegram Desktop\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\Shoes\\Shoes\\Views\\TovarControl.xaml",
+              "RelativeToolTip": "Shoes\\Views\\TovarControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-22T08:40:44.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Authorization.xaml",
+              "DocumentMoniker": "C:\\Users\\79174\\Downloads\\Telegram Desktop\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\Shoes\\Shoes\\Views\\Authorization.xaml",
+              "RelativeDocumentMoniker": "Shoes\\Views\\Authorization.xaml",
+              "ToolTip": "C:\\Users\\79174\\Downloads\\Telegram Desktop\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\Shoes\\Shoes\\Views\\Authorization.xaml",
+              "RelativeToolTip": "Shoes\\Views\\Authorization.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-22T14:55:19.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TovarControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\79174\\Downloads\\Telegram Desktop\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\Shoes\\Shoes\\Views\\TovarControl.xaml.cs",
+              "RelativeDocumentMoniker": "Shoes\\Views\\TovarControl.xaml.cs",
+              "ToolTip": "C:\\Users\\79174\\Downloads\\Telegram Desktop\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\Shoes\\Shoes\\Views\\TovarControl.xaml.cs",
+              "RelativeToolTip": "Shoes\\Views\\TovarControl.xaml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T08:44:07.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\79174\\Downloads\\Telegram Desktop\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\Shoes\\Shoes\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Shoes\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\79174\\Downloads\\Telegram Desktop\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\Shoes\\Shoes\\App.xaml.cs",
+              "RelativeToolTip": "Shoes\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T08:23:35.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddRedactOrder.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\79174\\Downloads\\Telegram Desktop\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\Shoes\\Shoes\\Views\\AddRedactOrder.xaml.cs",
+              "RelativeDocumentMoniker": "Shoes\\Views\\AddRedactOrder.xaml.cs",
+              "ToolTip": "C:\\Users\\79174\\Downloads\\Telegram Desktop\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\Shoes\\Shoes\\Views\\AddRedactOrder.xaml.cs",
+              "RelativeToolTip": "Shoes\\Views\\AddRedactOrder.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHQBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T06:26:14.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddRedactOrder.xaml",
+              "DocumentMoniker": "C:\\Users\\79174\\Downloads\\Telegram Desktop\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\Shoes\\Shoes\\Views\\AddRedactOrder.xaml",
+              "RelativeDocumentMoniker": "Shoes\\Views\\AddRedactOrder.xaml",
+              "ToolTip": "C:\\Users\\79174\\Downloads\\Telegram Desktop\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\Shoes\\Shoes\\Views\\AddRedactOrder.xaml",
+              "RelativeToolTip": "Shoes\\Views\\AddRedactOrder.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-16T06:25:44.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\79174\\Downloads\\Telegram Desktop\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\Shoes\\Shoes\\Views\\OrderWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Shoes\\Views\\OrderWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\79174\\Downloads\\Telegram Desktop\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\Shoes\\Shoes\\Views\\OrderWindow.xaml.cs",
+              "RelativeToolTip": "Shoes\\Views\\OrderWindow.xaml.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAQwFYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T05:00:10.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\79174\\Downloads\\Telegram Desktop\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\Shoes\\Shoes\\Views\\OrderControl.xaml.cs",
+              "RelativeDocumentMoniker": "Shoes\\Views\\OrderControl.xaml.cs",
+              "ToolTip": "C:\\Users\\79174\\Downloads\\Telegram Desktop\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\Shoes\\Shoes\\Views\\OrderControl.xaml.cs",
+              "RelativeToolTip": "Shoes\\Views\\OrderControl.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T05:20:07.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\79174\\Downloads\\Telegram Desktop\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\Shoes\\Shoes\\Views\\OrderWindow.xaml",
+              "RelativeDocumentMoniker": "Shoes\\Views\\OrderWindow.xaml",
+              "ToolTip": "C:\\Users\\79174\\Downloads\\Telegram Desktop\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\Shoes\\Shoes\\Views\\OrderWindow.xaml",
+              "RelativeToolTip": "Shoes\\Views\\OrderWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-16T04:59:52.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PickUpPoint.cs",
+              "DocumentMoniker": "C:\\Users\\79174\\Downloads\\Telegram Desktop\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\Shoes\\Shoes\\Model\\PickUpPoint.cs",
+              "RelativeDocumentMoniker": "Shoes\\Model\\PickUpPoint.cs",
+              "ToolTip": "C:\\Users\\79174\\Downloads\\Telegram Desktop\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\Shoes\\Shoes\\Model\\PickUpPoint.cs",
+              "RelativeToolTip": "Shoes\\Model\\PickUpPoint.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwBIAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T07:06:09.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrderControl.xaml",
+              "DocumentMoniker": "C:\\Users\\79174\\Downloads\\Telegram Desktop\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\Shoes\\Shoes\\Views\\OrderControl.xaml",
+              "RelativeDocumentMoniker": "Shoes\\Views\\OrderControl.xaml",
+              "ToolTip": "C:\\Users\\79174\\Downloads\\Telegram Desktop\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\Shoes\\Shoes\\Views\\OrderControl.xaml",
+              "RelativeToolTip": "Shoes\\Views\\OrderControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-16T04:59:36.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\79174\\Downloads\\Telegram Desktop\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\Shoes\\Shoes\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Shoes\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\79174\\Downloads\\Telegram Desktop\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\Shoes\\Shoes\\Model\\User.cs",
+              "RelativeToolTip": "Shoes\\Model\\User.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA+wBYAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T07:07:28.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Shoes.csproj.backup",
+              "DocumentMoniker": "C:\\Users\\79174\\Downloads\\Telegram Desktop\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\Shoes\\Shoes\\Shoes.csproj.backup",
+              "RelativeDocumentMoniker": "Shoes\\Shoes.csproj.backup",
+              "ToolTip": "C:\\Users\\79174\\Downloads\\Telegram Desktop\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\Shoes\\Shoes\\Shoes.csproj.backup",
+              "RelativeToolTip": "Shoes\\Shoes.csproj.backup",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-19T07:02:57.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "OrderComposition.cs",
+              "DocumentMoniker": "C:\\Users\\79174\\Downloads\\Telegram Desktop\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\Shoes\\Shoes\\Model\\OrderComposition.cs",
+              "RelativeDocumentMoniker": "Shoes\\Model\\OrderComposition.cs",
+              "ToolTip": "C:\\Users\\79174\\Downloads\\Telegram Desktop\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\Shoes\\Shoes\\Model\\OrderComposition.cs",
+              "RelativeToolTip": "Shoes\\Model\\OrderComposition.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T19:54:39.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Shoes.csproj",
+              "DocumentMoniker": "C:\\Users\\79174\\Downloads\\Telegram Desktop\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\Shoes\\Shoes\\Shoes.csproj",
+              "RelativeDocumentMoniker": "Shoes\\Shoes.csproj",
+              "ToolTip": "C:\\Users\\79174\\Downloads\\Telegram Desktop\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\Shoes\\Shoes\\Shoes.csproj",
+              "RelativeToolTip": "Shoes\\Shoes.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-16T05:28:45.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\79174\\Downloads\\Telegram Desktop\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\Shoes\\Shoes\\Model\\Order.cs",
+              "RelativeDocumentMoniker": "Shoes\\Model\\Order.cs",
+              "ToolTip": "C:\\Users\\79174\\Downloads\\Telegram Desktop\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\Shoes\\Shoes\\Model\\Order.cs",
+              "RelativeToolTip": "Shoes\\Model\\Order.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwBsAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T05:10:59.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TovarCategory.cs",
+              "DocumentMoniker": "C:\\Users\\79174\\Downloads\\Telegram Desktop\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\Shoes\\Shoes\\Model\\TovarCategory.cs",
+              "RelativeDocumentMoniker": "Shoes\\Model\\TovarCategory.cs",
+              "ToolTip": "C:\\Users\\79174\\Downloads\\Telegram Desktop\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\Shoes\\Shoes\\Model\\TovarCategory.cs",
+              "RelativeToolTip": "Shoes\\Model\\TovarCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T14:49:50.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "C:\\Users\\79174\\Downloads\\Telegram Desktop\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\Shoes\\Shoes\\Model\\Supplier.cs",
+              "RelativeDocumentMoniker": "Shoes\\Model\\Supplier.cs",
+              "ToolTip": "C:\\Users\\79174\\Downloads\\Telegram Desktop\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\Shoes\\Shoes\\Model\\Supplier.cs",
+              "RelativeToolTip": "Shoes\\Model\\Supplier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T08:45:11.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Manufacturer.cs",
+              "DocumentMoniker": "C:\\Users\\79174\\Downloads\\Telegram Desktop\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\Shoes\\Shoes\\Model\\Manufacturer.cs",
+              "RelativeDocumentMoniker": "Shoes\\Model\\Manufacturer.cs",
+              "ToolTip": "C:\\Users\\79174\\Downloads\\Telegram Desktop\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\Shoes\\Shoes\\Model\\Manufacturer.cs",
+              "RelativeToolTip": "Shoes\\Model\\Manufacturer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T08:48:06.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DbShoesContext.cs",
+              "DocumentMoniker": "C:\\Users\\79174\\Downloads\\Telegram Desktop\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\Shoes\\Shoes\\Model\\DbShoesContext.cs",
+              "RelativeDocumentMoniker": "Shoes\\Model\\DbShoesContext.cs",
+              "ToolTip": "C:\\Users\\79174\\Downloads\\Telegram Desktop\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043A \u0437\u0430\u0434\u0430\u043D\u0438\u044E\\Shoes\\Shoes\\Model\\DbShoesContext.cs",
+              "RelativeToolTip": "Shoes\\Model\\DbShoesContext.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA3wCgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T08:21:49.988Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

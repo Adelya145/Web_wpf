@@ -1,0 +1,74 @@
+﻿<Window x:Class="Shoes.Views.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Shoes"
+        mc:Ignorable="d"
+        Title="Список товаров" Icon="/Resources/Icon.ico" WindowState="Maximized" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="90"/>
+            <RowDefinition Height="70"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0" Background="#7FFF00">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="1.8*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Image Source="/Resources/Icon.png" Grid.Column="0" HorizontalAlignment="Left" Margin="5"></Image>
+            <TextBlock Grid.Column="2" Grid.ColumnSpan="2" VerticalAlignment="Top" Margin="5" x:Name="Name_user" HorizontalAlignment="Right" FontSize="18"></TextBlock>
+            <Button Grid.Column="2" VerticalAlignment="Bottom" x:Name="order_btn" Click="order_btn_Click" Content="Заказы" FontSize="18" Padding="15 10" Margin="5" Background="#00FA9A"/>
+            <StackPanel Grid.Column="3" HorizontalAlignment="Right" Orientation="Horizontal">
+                 <Button x:Name="Auth" Click="Auth_Click" VerticalAlignment="Bottom" Margin="5" Content="Выйти" HorizontalAlignment="Right" FontSize="18" Padding="15 10" Background="#00FA9A"/>
+             <Button x:Name="Add_tovar_btn" Click="Add_tovar_btn_Click" VerticalAlignment="Bottom" Margin="5" Content="Добавить товар" HorizontalAlignment="Center" FontSize="18" Padding="15 10" Background="#00FA9A"/>
+            </StackPanel>
+           
+            <TextBlock Text="ООО Обувь" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="20"></TextBlock>
+        </Grid>
+        <Grid x:Name="filter_grid" Grid.Row="1" Margin="5">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="2*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="2*"/>
+                <ColumnDefinition Width="1.3*"/>
+                <ColumnDefinition Width="2*"/>
+            </Grid.ColumnDefinitions>
+
+            <Label Content="Поиск:" FontSize="16" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+            <TextBox x:Name="search_tb" Grid.Column="1" FontSize="16" Padding="5" VerticalAlignment="Center" HorizontalAlignment="Stretch"
+     TextChanged="search_tb_TextChanged"/>
+
+            <Label Content="Фильтр:" Grid.Column="2" FontSize="16" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+            <ComboBox x:Name="filterComboBox" Grid.Column="3" FontSize="16" VerticalAlignment="Center" SelectionChanged="filterComboBox_SelectionChanged">
+                
+            </ComboBox>
+
+            <Label Content="Сортировка:" Grid.Column="4" FontSize="16" VerticalAlignment="Center" />
+            <ComboBox x:Name="sortComboBox" Grid.Column="5" FontSize="16" VerticalAlignment="Center" SelectionChanged="sortComboBox_SelectionChanged">
+                <ComboBoxItem Content="По умолчанию" IsSelected="True"/>
+                <ComboBoxItem Content="По кол-ву (возрастание)"/>
+                <ComboBoxItem Content="По кол-ву (убывание)"/>
+            </ComboBox>
+        </Grid>
+        
+        <ListView x:Name="tovars_lv" Grid.Row="2"  HorizontalContentAlignment="Stretch">
+            <ListView.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <StackPanel Orientation="Vertical"/>
+                </ItemsPanelTemplate>
+            </ListView.ItemsPanel>
+            <ListView.ContextMenu>
+                <ContextMenu x:Name="context_menu">
+                    <MenuItem x:Name="redact" Header="Редактировать" Click="redact_Click"/>
+                    <MenuItem x:Name="dell" Header="Удалить" Click="dell_Click"/>
+                </ContextMenu>
+            </ListView.ContextMenu>
+        </ListView>
+        <TextBlock Text="ничего не найдено" VerticalAlignment="Center" FontSize="18" HorizontalAlignment="Center" Visibility ="Collapsed"  x:Name="notFound" Grid.Row="2"/>
+    </Grid>
+</Window>

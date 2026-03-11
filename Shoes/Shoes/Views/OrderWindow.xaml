@@ -1,0 +1,40 @@
+﻿<Window x:Class="Shoes.Views.OrderWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Shoes.Views"
+        mc:Ignorable="d"
+        Title="Заказы" Height="450" Icon="/Resources/Icon.ico" WindowState="Maximized" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="90"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0" Background="#7FFF00">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="1.5*"/>
+                <ColumnDefinition Width="0.9*"/>
+            </Grid.ColumnDefinitions>
+            <Image Source="/Resources/Icon.png" Grid.Column="0" HorizontalAlignment="Left" Margin="5"></Image>
+            <TextBlock Grid.Column="2" Grid.ColumnSpan="2" VerticalAlignment="Top" Margin="5" x:Name="Name_user" HorizontalAlignment="Right" FontSize="18"></TextBlock>
+            <Button x:Name="Back_btn" Click="Back_btn_Click" Grid.Column="3" VerticalAlignment="Center" Margin="5" Content="Назад" HorizontalAlignment="Right" FontSize="18" Padding="15 10" Background="#00FA9A"/>
+            <Button x:Name="Add_order_btn" Click="Add_order_btn_Click"  Grid.Column="1" VerticalAlignment="Center" Margin="5" Content="Добавить заказ" HorizontalAlignment="Center" FontSize="18" Padding="15 10" Background="#00FA9A"/>
+        </Grid>
+       
+        <ListView x:Name="orders_lv" Grid.Row="1"  HorizontalContentAlignment="Stretch">
+            <ListView.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <StackPanel Orientation="Vertical"/>
+                </ItemsPanelTemplate>
+            </ListView.ItemsPanel>
+            <ListView.ContextMenu>
+                <ContextMenu x:Name="context_menu">
+                    <MenuItem x:Name="redact" Header="Редактировать" Click="redact_Click"/>
+                    <MenuItem x:Name="dell" Header="Удалить" Click="dell_Click"/>
+                </ContextMenu>
+            </ListView.ContextMenu>
+        </ListView>
+    </Grid>
+</Window>
