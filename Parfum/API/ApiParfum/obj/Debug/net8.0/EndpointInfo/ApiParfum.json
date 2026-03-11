@@ -1,0 +1,872 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "ApiParfum",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Tovar/GetAll": {
+      "get": {
+        "tags": [
+          "Tovar"
+        ],
+        "parameters": [
+          {
+            "name": "sortBy",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "default": "default"
+            }
+          },
+          {
+            "name": "search",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "supplierId",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "manufacturerId",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "categoryId",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/Tovar"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Tovar"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Tovar"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Tovar/GetSuppliers": {
+      "get": {
+        "tags": [
+          "Tovar"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/Supplier"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Supplier"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Supplier"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Tovar/GetManufacturers": {
+      "get": {
+        "tags": [
+          "Tovar"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/Manufacturer"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Manufacturer"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Manufacturer"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Tovar/GetCategories": {
+      "get": {
+        "tags": [
+          "Tovar"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/TovarCategory"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/TovarCategory"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/TovarCategory"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Tovar/GetTovarId": {
+      "get": {
+        "tags": [
+          "Tovar"
+        ],
+        "parameters": [
+          {
+            "name": "article",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/Tovar"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Tovar"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Tovar"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Tovar/AddTovar": {
+      "post": {
+        "tags": [
+          "Tovar"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Tovar"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Tovar"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Tovar"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Tovar/RedactTovar": {
+      "put": {
+        "tags": [
+          "Tovar"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Tovar"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Tovar"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Tovar"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Tovar/DeleteTovar": {
+      "delete": {
+        "tags": [
+          "Tovar"
+        ],
+        "parameters": [
+          {
+            "name": "article",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Tovar/UploadImage": {
+      "post": {
+        "tags": [
+          "Tovar"
+        ],
+        "requestBody": {
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "image": {
+                    "type": "string",
+                    "format": "binary"
+                  },
+                  "article": {
+                    "type": "string"
+                  }
+                }
+              },
+              "encoding": {
+                "image": {
+                  "style": "form"
+                },
+                "article": {
+                  "style": "form"
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Tovar/GetBasketItems": {
+      "get": {
+        "tags": [
+          "Tovar"
+        ],
+        "parameters": [
+          {
+            "name": "userId",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Tovar/AddToBasket": {
+      "post": {
+        "tags": [
+          "Tovar"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/AddToBasketRequest"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/AddToBasketRequest"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/AddToBasketRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Tovar/UpdateBasketQuantity": {
+      "put": {
+        "tags": [
+          "Tovar"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/UpdateBasketRequest"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/UpdateBasketRequest"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/UpdateBasketRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Tovar/RemoveFromBasket": {
+      "delete": {
+        "tags": [
+          "Tovar"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RemoveFromBasketRequest"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RemoveFromBasketRequest"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/RemoveFromBasketRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Tovar/ClearBasket/{userId}": {
+      "delete": {
+        "tags": [
+          "Tovar"
+        ],
+        "parameters": [
+          {
+            "name": "userId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Tovar/CreateOrder": {
+      "post": {
+        "tags": [
+          "Tovar"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreateOrderRequest"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreateOrderRequest"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreateOrderRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Tovar/GetPickUpPoints": {
+      "get": {
+        "tags": [
+          "Tovar"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Tovar/GetUserOrders": {
+      "get": {
+        "tags": [
+          "Tovar"
+        ],
+        "parameters": [
+          {
+            "name": "userId",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Tovar/GetAllOrders": {
+      "get": {
+        "tags": [
+          "Tovar"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Tovar/UpdateOrderStatus/{orderId}": {
+      "put": {
+        "tags": [
+          "Tovar"
+        ],
+        "parameters": [
+          {
+            "name": "orderId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/UpdateOrderStatusRequest"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/UpdateOrderStatusRequest"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/UpdateOrderStatusRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/User/Authorization": {
+      "post": {
+        "tags": [
+          "User"
+        ],
+        "parameters": [
+          {
+            "name": "email",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "password",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "AddToBasketRequest": {
+        "type": "object",
+        "properties": {
+          "userId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "tovarArticle": {
+            "type": "string",
+            "nullable": true
+          },
+          "quantity": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "Bascet": {
+        "type": "object",
+        "properties": {
+          "userId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "tovarArticle": {
+            "type": "string",
+            "nullable": true
+          },
+          "bascetCount": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "tovarArticleNavigation": {
+            "$ref": "#/components/schemas/Tovar"
+          }
+        },
+        "additionalProperties": false
+      },
+      "CreateOrderRequest": {
+        "type": "object",
+        "properties": {
+          "userId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "pickUpPointId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "items": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/OrderItemRequest"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "Manufacturer": {
+        "type": "object",
+        "properties": {
+          "manufacturerId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "manufacturerName": {
+            "type": "string",
+            "nullable": true
+          },
+          "tovars": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Tovar"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "OrderItemRequest": {
+        "type": "object",
+        "properties": {
+          "tovarArticle": {
+            "type": "string",
+            "nullable": true
+          },
+          "quantity": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "RemoveFromBasketRequest": {
+        "type": "object",
+        "properties": {
+          "userId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "tovarArticle": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "Supplier": {
+        "type": "object",
+        "properties": {
+          "supplierId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "supplierName": {
+            "type": "string",
+            "nullable": true
+          },
+          "tovars": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Tovar"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "Tovar": {
+        "type": "object",
+        "properties": {
+          "tovarArticle": {
+            "type": "string",
+            "nullable": true
+          },
+          "tovarName": {
+            "type": "string",
+            "nullable": true
+          },
+          "tovarUnit": {
+            "type": "string",
+            "nullable": true
+          },
+          "tovarCost": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          },
+          "supplierId": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "manufactrurerId": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "tovarCategoryId": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "tovarCurrentSale": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "tovarCount": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "tovarDesc": {
+            "type": "string",
+            "nullable": true
+          },
+          "tovarPhoto": {
+            "type": "string",
+            "nullable": true
+          },
+          "bascets": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Bascet"
+            },
+            "nullable": true
+          },
+          "supplierName": {
+            "type": "string",
+            "nullable": true,
+            "readOnly": true
+          },
+          "manufacturerName": {
+            "type": "string",
+            "nullable": true,
+            "readOnly": true
+          },
+          "tovarCategoryName": {
+            "type": "string",
+            "nullable": true,
+            "readOnly": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "TovarCategory": {
+        "type": "object",
+        "properties": {
+          "tovarCategoryId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "tovarCategoryName": {
+            "type": "string",
+            "nullable": true
+          },
+          "tovars": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Tovar"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "UpdateBasketRequest": {
+        "type": "object",
+        "properties": {
+          "userId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "tovarArticle": {
+            "type": "string",
+            "nullable": true
+          },
+          "quantity": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "UpdateOrderStatusRequest": {
+        "type": "object",
+        "properties": {
+          "orderStatus": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\79174\\source\\repos\\ApiParfum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF58F90-BF25-4923-9D3E-BAE90CD76D42}|ApiParfum\\ApiParfum.csproj|c:\\users\\79174\\source\\repos\\apiparfum\\apiparfum\\controllers\\tovarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF58F90-BF25-4923-9D3E-BAE90CD76D42}|ApiParfum\\ApiParfum.csproj|solutionrelative:apiparfum\\controllers\\tovarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF58F90-BF25-4923-9D3E-BAE90CD76D42}|ApiParfum\\ApiParfum.csproj|c:\\users\\79174\\source\\repos\\apiparfum\\apiparfum\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF58F90-BF25-4923-9D3E-BAE90CD76D42}|ApiParfum\\ApiParfum.csproj|solutionrelative:apiparfum\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF58F90-BF25-4923-9D3E-BAE90CD76D42}|ApiParfum\\ApiParfum.csproj|c:\\users\\79174\\source\\repos\\apiparfum\\apiparfum\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF58F90-BF25-4923-9D3E-BAE90CD76D42}|ApiParfum\\ApiParfum.csproj|solutionrelative:apiparfum\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF58F90-BF25-4923-9D3E-BAE90CD76D42}|ApiParfum\\ApiParfum.csproj|c:\\users\\79174\\source\\repos\\apiparfum\\apiparfum\\models\\ordercomposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF58F90-BF25-4923-9D3E-BAE90CD76D42}|ApiParfum\\ApiParfum.csproj|solutionrelative:apiparfum\\models\\ordercomposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF58F90-BF25-4923-9D3E-BAE90CD76D42}|ApiParfum\\ApiParfum.csproj|c:\\users\\79174\\source\\repos\\apiparfum\\apiparfum\\models\\pickuppoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF58F90-BF25-4923-9D3E-BAE90CD76D42}|ApiParfum\\ApiParfum.csproj|solutionrelative:apiparfum\\models\\pickuppoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF58F90-BF25-4923-9D3E-BAE90CD76D42}|ApiParfum\\ApiParfum.csproj|c:\\users\\79174\\source\\repos\\apiparfum\\apiparfum\\models\\bascet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF58F90-BF25-4923-9D3E-BAE90CD76D42}|ApiParfum\\ApiParfum.csproj|solutionrelative:apiparfum\\models\\bascet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF58F90-BF25-4923-9D3E-BAE90CD76D42}|ApiParfum\\ApiParfum.csproj|c:\\users\\79174\\source\\repos\\apiparfum\\apiparfum\\models\\tovar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF58F90-BF25-4923-9D3E-BAE90CD76D42}|ApiParfum\\ApiParfum.csproj|solutionrelative:apiparfum\\models\\tovar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF58F90-BF25-4923-9D3E-BAE90CD76D42}|ApiParfum\\ApiParfum.csproj|c:\\users\\79174\\source\\repos\\apiparfum\\apiparfum\\models\\dbparfumecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF58F90-BF25-4923-9D3E-BAE90CD76D42}|ApiParfum\\ApiParfum.csproj|solutionrelative:apiparfum\\models\\dbparfumecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF58F90-BF25-4923-9D3E-BAE90CD76D42}|ApiParfum\\ApiParfum.csproj|c:\\users\\79174\\source\\repos\\apiparfum\\apiparfum\\models\\tovarcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF58F90-BF25-4923-9D3E-BAE90CD76D42}|ApiParfum\\ApiParfum.csproj|solutionrelative:apiparfum\\models\\tovarcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF58F90-BF25-4923-9D3E-BAE90CD76D42}|ApiParfum\\ApiParfum.csproj|c:\\users\\79174\\source\\repos\\apiparfum\\apiparfum\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF58F90-BF25-4923-9D3E-BAE90CD76D42}|ApiParfum\\ApiParfum.csproj|solutionrelative:apiparfum\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF58F90-BF25-4923-9D3E-BAE90CD76D42}|ApiParfum\\ApiParfum.csproj|c:\\users\\79174\\source\\repos\\apiparfum\\apiparfum\\models\\manufacturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF58F90-BF25-4923-9D3E-BAE90CD76D42}|ApiParfum\\ApiParfum.csproj|solutionrelative:apiparfum\\models\\manufacturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF58F90-BF25-4923-9D3E-BAE90CD76D42}|ApiParfum\\ApiParfum.csproj|c:\\users\\79174\\source\\repos\\apiparfum\\apiparfum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF58F90-BF25-4923-9D3E-BAE90CD76D42}|ApiParfum\\ApiParfum.csproj|solutionrelative:apiparfum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF58F90-BF25-4923-9D3E-BAE90CD76D42}|ApiParfum\\ApiParfum.csproj|c:\\users\\79174\\source\\repos\\apiparfum\\apiparfum\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6DF58F90-BF25-4923-9D3E-BAE90CD76D42}|ApiParfum\\ApiParfum.csproj|solutionrelative:apiparfum\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF58F90-BF25-4923-9D3E-BAE90CD76D42}|ApiParfum\\ApiParfum.csproj|c:\\users\\79174\\source\\repos\\apiparfum\\apiparfum\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF58F90-BF25-4923-9D3E-BAE90CD76D42}|ApiParfum\\ApiParfum.csproj|solutionrelative:apiparfum\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF58F90-BF25-4923-9D3E-BAE90CD76D42}|ApiParfum\\ApiParfum.csproj|c:\\users\\79174\\source\\repos\\apiparfum\\apiparfum\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6DF58F90-BF25-4923-9D3E-BAE90CD76D42}|ApiParfum\\ApiParfum.csproj|solutionrelative:apiparfum\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Manufacturer.cs",
+              "DocumentMoniker": "C:\\Users\\79174\\source\\repos\\ApiParfum\\ApiParfum\\Models\\Manufacturer.cs",
+              "RelativeDocumentMoniker": "ApiParfum\\Models\\Manufacturer.cs",
+              "ToolTip": "C:\\Users\\79174\\source\\repos\\ApiParfum\\ApiParfum\\Models\\Manufacturer.cs",
+              "RelativeToolTip": "ApiParfum\\Models\\Manufacturer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T09:03:43.51Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TovarController.cs",
+              "DocumentMoniker": "C:\\Users\\79174\\source\\repos\\ApiParfum\\ApiParfum\\Controllers\\TovarController.cs",
+              "RelativeDocumentMoniker": "ApiParfum\\Controllers\\TovarController.cs",
+              "ToolTip": "C:\\Users\\79174\\source\\repos\\ApiParfum\\ApiParfum\\Controllers\\TovarController.cs",
+              "RelativeToolTip": "ApiParfum\\Controllers\\TovarController.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAowMMDAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T08:57:31.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bascet.cs",
+              "DocumentMoniker": "C:\\Users\\79174\\source\\repos\\ApiParfum\\ApiParfum\\Models\\Bascet.cs",
+              "RelativeDocumentMoniker": "ApiParfum\\Models\\Bascet.cs",
+              "ToolTip": "C:\\Users\\79174\\source\\repos\\ApiParfum\\ApiParfum\\Models\\Bascet.cs",
+              "RelativeToolTip": "ApiParfum\\Models\\Bascet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T14:53:52.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\79174\\source\\repos\\ApiParfum\\ApiParfum\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "ApiParfum\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\79174\\source\\repos\\ApiParfum\\ApiParfum\\Models\\Order.cs",
+              "RelativeToolTip": "ApiParfum\\Models\\Order.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwBkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T14:52:43.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderComposition.cs",
+              "DocumentMoniker": "C:\\Users\\79174\\source\\repos\\ApiParfum\\ApiParfum\\Models\\OrderComposition.cs",
+              "RelativeDocumentMoniker": "ApiParfum\\Models\\OrderComposition.cs",
+              "ToolTip": "C:\\Users\\79174\\source\\repos\\ApiParfum\\ApiParfum\\Models\\OrderComposition.cs",
+              "RelativeToolTip": "ApiParfum\\Models\\OrderComposition.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T14:52:45.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PickUpPoint.cs",
+              "DocumentMoniker": "C:\\Users\\79174\\source\\repos\\ApiParfum\\ApiParfum\\Models\\PickUpPoint.cs",
+              "RelativeDocumentMoniker": "ApiParfum\\Models\\PickUpPoint.cs",
+              "ToolTip": "C:\\Users\\79174\\source\\repos\\ApiParfum\\ApiParfum\\Models\\PickUpPoint.cs",
+              "RelativeToolTip": "ApiParfum\\Models\\PickUpPoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T14:52:48.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Tovar.cs",
+              "DocumentMoniker": "C:\\Users\\79174\\source\\repos\\ApiParfum\\ApiParfum\\Models\\Tovar.cs",
+              "RelativeDocumentMoniker": "ApiParfum\\Models\\Tovar.cs",
+              "ToolTip": "C:\\Users\\79174\\source\\repos\\ApiParfum\\ApiParfum\\Models\\Tovar.cs",
+              "RelativeToolTip": "ApiParfum\\Models\\Tovar.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAcwCUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T09:03:14.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TovarCategory.cs",
+              "DocumentMoniker": "C:\\Users\\79174\\source\\repos\\ApiParfum\\ApiParfum\\Models\\TovarCategory.cs",
+              "RelativeDocumentMoniker": "ApiParfum\\Models\\TovarCategory.cs",
+              "ToolTip": "C:\\Users\\79174\\source\\repos\\ApiParfum\\ApiParfum\\Models\\TovarCategory.cs",
+              "RelativeToolTip": "ApiParfum\\Models\\TovarCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T14:53:03.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\79174\\source\\repos\\ApiParfum\\ApiParfum\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ApiParfum\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\79174\\source\\repos\\ApiParfum\\ApiParfum\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ApiParfum\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T08:57:11.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DbParfumeContext.cs",
+              "DocumentMoniker": "C:\\Users\\79174\\source\\repos\\ApiParfum\\ApiParfum\\Models\\DbParfumeContext.cs",
+              "RelativeDocumentMoniker": "ApiParfum\\Models\\DbParfumeContext.cs",
+              "ToolTip": "C:\\Users\\79174\\source\\repos\\ApiParfum\\ApiParfum\\Models\\DbParfumeContext.cs",
+              "RelativeToolTip": "ApiParfum\\Models\\DbParfumeContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T08:56:21.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\79174\\source\\repos\\ApiParfum\\ApiParfum\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ApiParfum\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\79174\\source\\repos\\ApiParfum\\ApiParfum\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ApiParfum\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABEAAAAAAAAAAABRwCIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-25T09:08:16.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "C:\\Users\\79174\\source\\repos\\ApiParfum\\ApiParfum\\Models\\Supplier.cs",
+              "RelativeDocumentMoniker": "ApiParfum\\Models\\Supplier.cs",
+              "ToolTip": "C:\\Users\\79174\\source\\repos\\ApiParfum\\ApiParfum\\Models\\Supplier.cs",
+              "RelativeToolTip": "ApiParfum\\Models\\Supplier.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T10:26:29.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\79174\\source\\repos\\ApiParfum\\ApiParfum\\Program.cs",
+              "RelativeDocumentMoniker": "ApiParfum\\Program.cs",
+              "ToolTip": "C:\\Users\\79174\\source\\repos\\ApiParfum\\ApiParfum\\Program.cs",
+              "RelativeToolTip": "ApiParfum\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T10:56:45.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\79174\\source\\repos\\ApiParfum\\ApiParfum\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ApiParfum\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\79174\\source\\repos\\ApiParfum\\ApiParfum\\Models\\User.cs",
+              "RelativeToolTip": "ApiParfum\\Models\\User.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA3wBUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T09:16:50.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\79174\\source\\repos\\ApiParfum\\ApiParfum\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiParfum\\appsettings.json",
+              "ToolTip": "C:\\Users\\79174\\source\\repos\\ApiParfum\\ApiParfum\\appsettings.json",
+              "RelativeToolTip": "ApiParfum\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-10T09:48:26.419Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
